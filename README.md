@@ -1,5 +1,5 @@
 # DictionaryApp
-This project is intended to familiarize you with operations on arrays such as Sorting and Searching Algo-
+Fall 2015 ECE242 project. Project isintended to familiarize you with operations on arrays such as Sorting and Searching Algo-
 rithms. The goal of the project is to design an cient dictionary database and implement a variety of
 useful applications such as: searching a word, spell checking a text, or and anagrams of a word. The items
 of the dictionary will be read from an input file. At first they are not ordered and you must then implement
